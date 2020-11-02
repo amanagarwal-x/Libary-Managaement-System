@@ -12,6 +12,8 @@ Install XAMPP and create a folder named 'library' in the htdocs folder.
 Copy/Move the contents of this project in the library folder.
 Create a database named as 'library' and import the sql file using phpmyadmin dashboard.
 Now you can run this project using your localhost server.
+<br>
+This Website can be hosted online also.
 
 #### Screenshots:
 
